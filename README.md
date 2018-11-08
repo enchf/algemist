@@ -1,4 +1,4 @@
-# Gemminator
+# Algemist
 
 A custom way to simplify the creation of a gem skeleton.
 
@@ -13,10 +13,10 @@ Some rules of the gem were listed on a gist sometime ago:
 
 First install the gem:
 
-`gem install gemminator`
+`gem install algemist`
 
 Then run the gem as:
 
-`gemminator --name <gem-name>`
+`algemist --name <gem-name>`
 
 It will dispatch the prompt to create your gem step by step.
